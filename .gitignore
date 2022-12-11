@@ -1,0 +1,6 @@
+/**/*.nb
+/**/*.pgm
+/**/*.gz
+/**/*.dat
+example
+build
